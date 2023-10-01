@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  https://wakatime.com/
 - 🌱 I’m currently learning ** Python,Java,C++, Kotlin **
-- 💬 Ask me about . C++,Kotlin,Html,Css..
+- 💬 Ask me about . Python,Kotlin,Html,Css..
 - 📫 How to reach me: "ogolasospeter62@gmail.com" / "captainsos483@gmail.com"
 - ⚡ Fun fact: ...
 - 🔭 I'm a member of **ALX/SE**
