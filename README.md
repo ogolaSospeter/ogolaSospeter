@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogolaSospeter&layout=compact&theme=dark&hide_border=false" /></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogolaSospeterR&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Ogola sospeter Github Stats" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogolaSospeter&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Ogola sospeter Github Stats" /></p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogolaSospeter&theme=dark" alt="Ogola Sospeter Contributions" /></p>
 <br/>
